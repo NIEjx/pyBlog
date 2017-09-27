@@ -1,0 +1,88 @@
+body {
+    background-color: #e0e0e0
+}
+a:link { 
+color:#DA1050; 
+text-decoration:none; 
+} 
+a:visited { 
+color:black; 
+text-decoration:none; 
+} 
+a:hover { 
+color: #Fa2f70; 
+text-decoration:none; 
+} 
+a:active { 
+color:#FFFFFF; 
+text-decoration:none; 
+} 
+
+  div.site-content {
+      background-color: #ffffff;
+    position: absolute;
+    top: 8.5em;
+      left: 13em;
+    right: 0.5em;
+      padding-left: 0.5em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: #303030
+    }
+div.site-content h1,div.site-content h2,div.site-content h3,div.site-content h4,div.site-content h5 {
+    color: #f3e622
+}
+div.site-content a:link { 
+color:#e10076; 
+text-decoration:underline; 
+} 
+
+  div.menu-container {
+      background-color: #a5f3cb;
+    position: absolute;
+    top: 8.5em;
+    left: 0.5em;
+      padding-right: 0.25em;
+    z-index: 9999;
+    width: 12em }
+div.menu-container a:link { 
+color:#00ce65; 
+text-decoration:none; 
+} 
+div.menu-container a:visited { 
+color:#004e26; 
+text-decoration:none; 
+} 
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+div.site-branding{
+      background-color: #f85daf;
+    text-align: center }
+div.site-branding h1,div.site-branding h2 {
+    color: #742b52
+}
+div.site-branding a:link { 
+color:#742b52; 
+text-decoration:none; 
+} 
+div.site-branding a:visited { 
+color:#600a38; 
+text-decoration:none; 
+}
+  table, th {
+    border:1px solid grey }
+  th {
+    background-color:#da1050;
+    color:white }
+  tr:nth-child(even) {
+      background-color: #cdcdcd}
+tr:nth-child(odd) {
+    background-color: white
+}
+    span.bottom {
+        bottom:0px      }
+ul {
+    margin-left: -1.25em
+}
+
